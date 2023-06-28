@@ -11,6 +11,7 @@
 # Models
 **/*.safetensors
 **/*.ckpt
+**/*.pth
 
 # Renders
 **/*.png
